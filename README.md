@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+\github-readme-stats
+
+**Nota:** Los idiomas principales no indican mi nivel de habilidad ni nada por el estilo, es una métrica de GitHub de qué idiomas tienen la mayor cantidad de código en GitHub. Es una nueva característica de github-readme-stats.
